@@ -34,6 +34,12 @@ var APP_DATA = {
           "pitch": 0.06290442698076504,
           "rotation": 0,
           "target": "1-5"
+        },
+		{
+          "yaw": 2.7832601636819163,
+          "pitch": -0.08875752647460722,
+          "rotation": 0,
+          "target": "4-7"
         }
       ],
       "infoHotspots": [
@@ -52,7 +58,7 @@ var APP_DATA = {
         {
           "yaw": 2.076049008386094,
           "pitch": 0.02593448497133899,
-          "title": "露易莎",
+          "title": "路易莎",
           "text": "肚子餓可以在那邊吃東西"
         }
       ]
@@ -91,6 +97,12 @@ var APP_DATA = {
           "pitch": 0.06722858016563116,
           "rotation": 0,
           "target": "2-6"
+        },
+		{
+          "yaw": 1.5772552126336645,
+          "pitch": -0.04564907775301563,
+          "rotation": 0,
+          "target": "0-"
         }
       ],
       "infoHotspots": [
@@ -138,6 +150,12 @@ var APP_DATA = {
           "pitch": 0.13246536990292057,
           "rotation": 0,
           "target": "3-7"
+        },
+		{
+          "yaw": -0.29660125328638287,
+          "pitch": 0.11416614556541305,
+          "rotation": 0,
+          "target": "1-5"
         }
       ],
       "infoHotspots": [
@@ -185,6 +203,12 @@ var APP_DATA = {
           "pitch": -0.33022032351114383,
           "rotation": 0,
           "target": "4-7"
+        },
+		{
+          "yaw": -0.5496847109873961,
+          "pitch": 0.03398231090966952,
+          "rotation": 0,
+          "target": "2-6"
         }
       ],
       "infoHotspots": [
@@ -230,6 +254,12 @@ var APP_DATA = {
           "pitch": -0.06881336462715737,
           "rotation": 0,
           "target": "0-"
+        },
+		{
+          "yaw": 1.6069830386222517,
+          "pitch": -0.17249963619442177,
+          "rotation": 0,
+          "target": "3-7"
         }
       ],
       "infoHotspots": [
@@ -238,6 +268,12 @@ var APP_DATA = {
           "pitch": 0.6773768881347415,
           "title": "討論室",
           "text": "可於此處討論，但需預約"
+        },
+		{
+          "yaw": -0.15375765485891257,
+          "pitch": 0.02503168579520043,
+          "title": "愛買",
+          "text": "大賣場"
         }
       ]
     }
